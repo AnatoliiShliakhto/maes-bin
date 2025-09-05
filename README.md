@@ -10,7 +10,7 @@
 [MyPublicWiFi](https://mypublicwifi.com/downloads/MyPublicWiFi.exe) `організація локальної WiFi мережі на пристрої`
 
 ## Презентація
-[Відео](https://youtu.be/-00g1EAatks)
+[![Відео](https://youtu.be/-00g1EAatks)](https://youtu.be/-00g1EAatks)
 
 ## Ключові особливості
 ### 🔌 **Автономна робота**
