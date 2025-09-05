@@ -5,7 +5,7 @@
 **MAES** (Military Aptitude & Evaluation System) - це інноваційна програмна платформа, розроблена для проведення тестування та опитування в автономному режимі без необхідності підключення до Інтернету. Система оптимізована для роботи з мобільними пристроями та забезпечує повнофункціональне проведення освітніх та корпоративних оцінювань.
 
 ## Завантаження
-[MAES версія 0.1.2](https://github.com/AnatoliiShliakhto/maes-bin/releases/download/v0.1.2/maes_0.1.2.msi) `програмна платформа тестування`
+[![MAES версія 0.1.2](https://github.com/AnatoliiShliakhto/maes-bin/releases/download/v0.1.0/download.png)](https://github.com/AnatoliiShliakhto/maes-bin/releases/download/v0.1.2/maes_0.1.2.msi) `програмна платформа тестування`
 
 ## Презентація
 [![Інтро](https://github.com/AnatoliiShliakhto/maes-bin/releases/download/v0.1.0/Intro.png)](https://youtu.be/-00g1EAatks)
